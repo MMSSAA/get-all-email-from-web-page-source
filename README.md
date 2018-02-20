@@ -2,13 +2,13 @@
   
 
 Content:
-* [About](https://github.com/#about)
-* [Requirements](https://github.com/#requirements)
-* [Download](https://github.com/#download)
-* [Installation](https://github.com/#installation)
-* [Usage](https://github.com/#usage)
-* [License](https://github.com/#license)
-* [Issues/Feedbacks](https://github.com/#issuesfeedbacks)
+* [About](https://github.com/MMSSAA/get-all-email-from-web-page-source#about)
+* [Requirements](https://github.com/MMSSAA/get-all-email-from-web-page-source#requirements)
+* [Download](https://github.com/MMSSAA/get-all-email-from-web-page-source#download)
+* [Installation](https://github.com/MMSSAA/get-all-email-from-web-page-source#installation)
+* [Usage](https://github.com/MMSSAA/get-all-email-from-web-page-source#usage)
+* [License](https://github.com/MMSSAA/get-all-email-from-web-page-source#license)
+* [Issues/Feedbacks](https://MMSSAA/get-all-email-from-web-page-sourcegithub.com/#issuesfeedbacks)
 
 
 ## About
@@ -21,10 +21,10 @@ get all email from web page source by php class
 
 ## Download
 
-* zip: https://github.com/
-* tgz: https://github.com/
-* git http: `git clone http: https://github.com/`
-* git: `git clone git://github.com/`
+* zip: https://github.com/MMSSAA/get-all-email-from-web-page-source
+* tgz: https://github.com/MMSSAA/get-all-email-from-web-page-source
+* git http: `git clone http: https://github.com/MMSSAA/get-all-email-from-web-page-source`
+* git: `git clone git://github.com/MMSSAA/get-all-email-from-web-page-source`
 
 ## Installation
 
